@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #352F85;
+    padding: 28px;
+    margin-bottom: 6px;
+}
+
+header a {
+    color: #B7F46E;
+    background-color: #FE7276;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 27px;
+}
+
+.link-header:hover {
+    background-color: #FFFF40;
+    color: black;
+    transition: 2s linear;
+}
+
+h1 {
+    text-align: center;
+    font-size: 49px;
+}
+
+h1:hover {
+    color: rgb(192, 226, 43);
+    transition: 1s linear;
+}
+
+footer {
+    background-color: #FFAE40;
+    padding: 12px;
+    margin: 14px;
+}
+
+.link-nav {
+    background-color: #FFFF73;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.link-nav:hover {
+    background-color: cornflowerblue;
+    color: #FFFF73;
+    text-decoration: none;
+    font-size: 19px;
+    transition: 1s linear;
+}
+
+.e3 {
+    opacity: 0.5;
+}
+
+.e3:hover {
+    opacity: 1;
+    transition: 3s ease;
+    margin-top: 5px;
+} 
+
+.link-text {
+    text-decoration: none;
+}
+
+.link-text:hover {
+    background-color: #FFAA00;
+    transition: 1s linear;
+}
+
+header:hover {
+    background-color: #FFAA00;
+    transition: 1s linear;
+}
+
+footer:hover {
+    background-color: #352F85;
+    transition: 1s linear;
+}
+
+ol {
+    font-size: 20px;
+    color: #1f1b61;
+}
+
+ol:hover {
+    color: #B7F46E;
+    background-color: black;
+    transition: 1s linear;
+    width: 440px;
+}
+
+h2:hover {
+    color: chartreuse;
+    background-color: black;
+    transition: 1s linear;
+    width: 220px;
+}
+
+.l8:hover {
+    padding: 10px;
+    margin: 5px;
+    transition: 1s linear;
+}
+
